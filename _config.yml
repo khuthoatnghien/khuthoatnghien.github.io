@@ -1,0 +1,5 @@
+title: Khu thoát nghiện
+remote_theme: "jekyll/minima@7d91bb5"
+minima:
+  skin: auto
+include: ['CONTRIBUTING.md']
